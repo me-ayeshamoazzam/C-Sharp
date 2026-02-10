@@ -1,0 +1,7 @@
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class1\Class1\bin\Debug\Class1.exe.config
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class1\Class1\bin\Debug\Class1.exe
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class1\Class1\bin\Debug\Class1.pdb
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class1\Class1\obj\Debug\Class1.csproj.AssemblyReference.cache
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class1\Class1\obj\Debug\Class1.csproj.CoreCompileInputs.cache
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class1\Class1\obj\Debug\Class1.exe
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class1\Class1\obj\Debug\Class1.pdb
