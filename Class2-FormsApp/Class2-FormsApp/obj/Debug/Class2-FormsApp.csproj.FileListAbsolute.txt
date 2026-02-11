@@ -1,0 +1,10 @@
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\bin\Debug\Class2-FormsApp.exe.config
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\bin\Debug\Class2-FormsApp.exe
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\bin\Debug\Class2-FormsApp.pdb
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2-FormsApp.csproj.AssemblyReference.cache
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2_FormsApp.Form1.resources
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2_FormsApp.Properties.Resources.resources
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2-FormsApp.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2-FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2-FormsApp.exe
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2-FormsApp.pdb
