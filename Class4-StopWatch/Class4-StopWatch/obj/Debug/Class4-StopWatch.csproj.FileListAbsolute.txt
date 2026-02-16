@@ -1,0 +1,11 @@
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\obj\Debug\Class4-StopWatch.csproj.AssemblyReference.cache
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\obj\Debug\Class4_StopWatch.Form1.resources
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\obj\Debug\Class4_StopWatch.Properties.Resources.resources
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\obj\Debug\Class4-StopWatch.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\obj\Debug\Class4-StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\bin\Debug\Class4-StopWatch.exe.config
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\bin\Debug\Class4-StopWatch.exe
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\bin\Debug\Class4-StopWatch.pdb
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\obj\Debug\Class4-StopWatch.exe
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\obj\Debug\Class4-StopWatch.pdb
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class4-StopWatch\Class4-StopWatch\obj\Debug\Class4-StopWatch.exe.config

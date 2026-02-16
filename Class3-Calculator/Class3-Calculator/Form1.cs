@@ -177,6 +177,7 @@ namespace Class3_Calculator
         {
             num1 = Convert.ToDouble(textBox1.Text);
             opt = "%";
+
             textBox1.Clear();
         }
 
@@ -199,7 +200,7 @@ namespace Class3_Calculator
                     result = $"{num1 / num2}";
                     break;
                 case "%":
-                    result = $"{num1 % num2}"; 
+                    result = $"{(num1 * num2) / 100}";
                     break;
             }
             textBox1.Text = result;
@@ -207,3 +208,4 @@ namespace Class3_Calculator
         }
     }
 }
+

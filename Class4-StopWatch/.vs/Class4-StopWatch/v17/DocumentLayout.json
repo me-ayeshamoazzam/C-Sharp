@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Documents\\Ayesha Moazzam\\C-Sharp\\Class4-StopWatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AF776C-35BC-4832-AC3E-039FA884AE1E}|Class4-StopWatch\\Class4-StopWatch.csproj|c:\\users\\teacher\\documents\\ayesha moazzam\\c-sharp\\class4-stopwatch\\class4-stopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5AF776C-35BC-4832-AC3E-039FA884AE1E}|Class4-StopWatch\\Class4-StopWatch.csproj|solutionrelative:class4-stopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AF776C-35BC-4832-AC3E-039FA884AE1E}|Class4-StopWatch\\Class4-StopWatch.csproj|c:\\users\\teacher\\documents\\ayesha moazzam\\c-sharp\\class4-stopwatch\\class4-stopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AF776C-35BC-4832-AC3E-039FA884AE1E}|Class4-StopWatch\\Class4-StopWatch.csproj|solutionrelative:class4-stopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Ayesha Moazzam\\C-Sharp\\Class4-StopWatch\\Class4-StopWatch\\Form1.cs",
+              "RelativeDocumentMoniker": "Class4-StopWatch\\Form1.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Ayesha Moazzam\\C-Sharp\\Class4-StopWatch\\Class4-StopWatch\\Form1.cs",
+              "RelativeToolTip": "Class4-StopWatch\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAEYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T11:10:33.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Ayesha Moazzam\\C-Sharp\\Class4-StopWatch\\Class4-StopWatch\\Form1.cs",
+              "RelativeDocumentMoniker": "Class4-StopWatch\\Form1.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Ayesha Moazzam\\C-Sharp\\Class4-StopWatch\\Class4-StopWatch\\Form1.cs [Design]",
+              "RelativeToolTip": "Class4-StopWatch\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T11:06:50.006Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

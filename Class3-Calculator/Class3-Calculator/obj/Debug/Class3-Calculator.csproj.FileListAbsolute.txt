@@ -8,3 +8,14 @@ C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class3-Calculator\Class3-Calculat
 C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class3-Calculator\Class3-Calculator\obj\Debug\Class3-Calculator.csproj.CoreCompileInputs.cache
 C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class3-Calculator\Class3-Calculator\obj\Debug\Class3-Calculator.exe
 C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class3-Calculator\Class3-Calculator\obj\Debug\Class3-Calculator.pdb
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\bin\Debug\Class3-Calculator.exe.config
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\bin\Debug\Class3-Calculator.exe
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\bin\Debug\Class3-Calculator.pdb
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\obj\Debug\Class3-Calculator.csproj.AssemblyReference.cache
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\obj\Debug\Class3-Calculator.exe.config
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\obj\Debug\Class3_Calculator.Form1.resources
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\obj\Debug\Class3_Calculator.Properties.Resources.resources
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\obj\Debug\Class3-Calculator.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\obj\Debug\Class3-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\obj\Debug\Class3-Calculator.exe
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class3-Calculator\Class3-Calculator\obj\Debug\Class3-Calculator.pdb
