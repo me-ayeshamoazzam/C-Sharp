@@ -44,7 +44,7 @@
             // 
             this.lblHr.AutoSize = true;
             this.lblHr.Font = new System.Drawing.Font("Yu Gothic UI", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHr.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblHr.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblHr.Location = new System.Drawing.Point(50, 92);
             this.lblHr.Name = "lblHr";
             this.lblHr.Size = new System.Drawing.Size(82, 65);
@@ -55,7 +55,7 @@
             // 
             this.lblMin.AutoSize = true;
             this.lblMin.Font = new System.Drawing.Font("Yu Gothic UI", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMin.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblMin.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblMin.Location = new System.Drawing.Point(169, 92);
             this.lblMin.Name = "lblMin";
             this.lblMin.Size = new System.Drawing.Size(82, 65);
@@ -66,7 +66,7 @@
             // 
             this.lblSec.AutoSize = true;
             this.lblSec.Font = new System.Drawing.Font("Yu Gothic UI", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSec.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblSec.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblSec.Location = new System.Drawing.Point(289, 92);
             this.lblSec.Name = "lblSec";
             this.lblSec.Size = new System.Drawing.Size(82, 65);
@@ -77,7 +77,7 @@
             // 
             this.lblMinSec.AutoSize = true;
             this.lblMinSec.Font = new System.Drawing.Font("Yu Gothic UI", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMinSec.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblMinSec.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblMinSec.Location = new System.Drawing.Point(418, 92);
             this.lblMinSec.Name = "lblMinSec";
             this.lblMinSec.Size = new System.Drawing.Size(82, 65);

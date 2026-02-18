@@ -8,3 +8,5 @@ C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsAp
 C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2-FormsApp.csproj.CoreCompileInputs.cache
 C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2-FormsApp.exe
 C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2-FormsApp.pdb
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2-FormsApp.exe.config
+C:\Users\Teacher\Documents\Ayesha Moazzam\C-Sharp\Class2-FormsApp\Class2-FormsApp\obj\Debug\Class2_FormsApp.SplashScreen.resources
