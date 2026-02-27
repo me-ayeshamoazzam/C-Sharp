@@ -1,0 +1,7 @@
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class8-Encapsulation\Class8-Encapsulation\bin\Debug\Class8-Encapsulation.exe.config
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class8-Encapsulation\Class8-Encapsulation\bin\Debug\Class8-Encapsulation.exe
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class8-Encapsulation\Class8-Encapsulation\bin\Debug\Class8-Encapsulation.pdb
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class8-Encapsulation\Class8-Encapsulation\obj\Debug\Class8-Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class8-Encapsulation\Class8-Encapsulation\obj\Debug\Class8-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class8-Encapsulation\Class8-Encapsulation\obj\Debug\Class8-Encapsulation.exe
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class8-Encapsulation\Class8-Encapsulation\obj\Debug\Class8-Encapsulation.pdb

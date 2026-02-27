@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\Class2-FormsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E0ECA8E-4D36-4CAC-A26A-83AFD5176AA6}|Class2-FormsApp\\Class2-FormsApp.csproj|C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\Class2-FormsApp\\class2-formsapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6E0ECA8E-4D36-4CAC-A26A-83AFD5176AA6}|Class2-FormsApp\\Class2-FormsApp.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\class2-formsapp\\class2-formsapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6E0ECA8E-4D36-4CAC-A26A-83AFD5176AA6}|Class2-FormsApp\\Class2-FormsApp.csproj|solutionrelative:class2-formsapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{6E0ECA8E-4D36-4CAC-A26A-83AFD5176AA6}|Class2-FormsApp\\Class2-FormsApp.csproj|solutionrelative:class2-formsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E0ECA8E-4D36-4CAC-A26A-83AFD5176AA6}|Class2-FormsApp\\Class2-FormsApp.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\class2-formsapp\\class2-formsapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E0ECA8E-4D36-4CAC-A26A-83AFD5176AA6}|Class2-FormsApp\\Class2-FormsApp.csproj|C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\Class2-FormsApp\\class2-formsapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E0ECA8E-4D36-4CAC-A26A-83AFD5176AA6}|Class2-FormsApp\\Class2-FormsApp.csproj|solutionrelative:class2-formsapp\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -79,8 +79,7 @@
               "RelativeToolTip": "Class2-FormsApp\\Form1.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T11:13:21.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T11:13:21.748Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\Class2-FormsApp\\Class2-FormsApp\\Form1.cs [Design]",
               "RelativeToolTip": "Class2-FormsApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T11:04:49.316Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-11T11:04:49.316Z"
             }
           ]
         }

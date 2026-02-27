@@ -1,0 +1,9 @@
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class5-ProgressBar\Class5-ProgressBar\bin\Debug\Class5-ProgressBar.exe.config
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class5-ProgressBar\Class5-ProgressBar\bin\Debug\Class5-ProgressBar.exe
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class5-ProgressBar\Class5-ProgressBar\bin\Debug\Class5-ProgressBar.pdb
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class5-ProgressBar\Class5-ProgressBar\obj\Debug\Class5-ProgressBar.csproj.AssemblyReference.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class5-ProgressBar\Class5-ProgressBar\obj\Debug\Class5_ProgressBar.Properties.Resources.resources
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class5-ProgressBar\Class5-ProgressBar\obj\Debug\Class5-ProgressBar.csproj.GenerateResource.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class5-ProgressBar\Class5-ProgressBar\obj\Debug\Class5-ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class5-ProgressBar\Class5-ProgressBar\obj\Debug\Class5-ProgressBar.exe
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class5-ProgressBar\Class5-ProgressBar\obj\Debug\Class5-ProgressBar.pdb
