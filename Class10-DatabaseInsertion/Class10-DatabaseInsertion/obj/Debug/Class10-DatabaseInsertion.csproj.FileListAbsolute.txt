@@ -1,0 +1,11 @@
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\obj\Debug\Class10-DatabaseInsertion.csproj.AssemblyReference.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\obj\Debug\Class10_DatabaseInsertion.Form1.resources
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\obj\Debug\Class10_DatabaseInsertion.Properties.Resources.resources
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\obj\Debug\Class10-DatabaseInsertion.csproj.GenerateResource.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\obj\Debug\Class10-DatabaseInsertion.csproj.CoreCompileInputs.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\bin\Debug\Class10-DatabaseInsertion.exe.config
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\bin\Debug\Class10-DatabaseInsertion.exe
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\bin\Debug\Class10-DatabaseInsertion.pdb
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\obj\Debug\Class10-DatabaseInsertion.exe
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\obj\Debug\Class10-DatabaseInsertion.pdb
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class10-DatabaseInsertion\Class10-DatabaseInsertion\obj\Debug\Class10-DatabaseInsertion.exe.config

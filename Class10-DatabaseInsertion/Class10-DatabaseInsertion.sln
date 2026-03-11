@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class10-DatabaseInsertion", "Class10-DatabaseInsertion\Class10-DatabaseInsertion.csproj", "{42981E41-55B5-45AB-A1BD-4BA86B9BD13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42981E41-55B5-45AB-A1BD-4BA86B9BD13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42981E41-55B5-45AB-A1BD-4BA86B9BD13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42981E41-55B5-45AB-A1BD-4BA86B9BD13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42981E41-55B5-45AB-A1BD-4BA86B9BD13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF9595BE-80FC-44C8-BF48-4CCE105FC527}
+	EndGlobalSection
+EndGlobal
