@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class1-Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E468C7-C964-4359-90D6-0296EB6F3B2D}|Class1-Test.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class1-test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37E468C7-C964-4359-90D6-0296EB6F3B2D}|Class1-Test.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class1-Test\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class1-Test\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0EAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T10:57:21.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

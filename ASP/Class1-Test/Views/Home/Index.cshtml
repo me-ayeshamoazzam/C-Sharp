@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Demo Razor Page";
+    var currentTime = DateTime.Now;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #4facfe, #00f2fe);
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 60px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            font-size: 16px;
+            color: #555;
+            line-height: 1.6;
+        }
+
+        .time-box {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f1f1f1;
+            border-left: 5px solid #4facfe;
+        }
+
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            border: none;
+            background: #4facfe;
+            color: white;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background: #007bff;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><b>Ayesha's</b> Razor Demo Page</h1>
+
+        <p>This is a simple HTML page with internal CSS running inside a Razor view.</p>
+
+        <div class="time-box">
+            <strong>Current Server Time:</strong>
+            <p>@currentTime</p>
+        </div>
+
+        <button onclick="showMessage()">Click Me</button>
+    </div>
+
+    <script>
+        function showMessage() {
+            alert("Razor + HTML + CSS is working!");
+        }
+    </script>
+</body>
+</html>
