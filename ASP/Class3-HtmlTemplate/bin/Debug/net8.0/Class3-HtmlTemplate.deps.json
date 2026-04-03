@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Class3-HtmlTemplate/1.0.0": {
+        "runtime": {
+          "Class3-HtmlTemplate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class3-HtmlTemplate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

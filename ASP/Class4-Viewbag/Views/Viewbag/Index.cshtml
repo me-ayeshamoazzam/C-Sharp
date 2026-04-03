@@ -1,0 +1,15 @@
+﻿﻿    <h2>@ViewBag.Message</h2>
+    <p>
+        <b>Current Date & Time:</b>
+        @ViewBag.CurrentDate
+    </p>
+
+
+    <h3>Fruits List: </h3>
+    <ul>
+        @foreach (var item in
+            ViewBag.FruitsArray)
+        {
+            <li>@item</li>
+        }
+    </ul>

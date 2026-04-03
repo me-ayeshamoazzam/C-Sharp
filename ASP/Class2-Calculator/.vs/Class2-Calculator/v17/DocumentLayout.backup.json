@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{0F56D26F-3EEC-42A4-B3A4-4EE2E35D59D7}|Class2-Calculator.csproj|solutionrelative:views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F56D26F-3EEC-42A4-B3A4-4EE2E35D59D7}|Class2-Calculator.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class2-calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F56D26F-3EEC-42A4-B3A4-4EE2E35D59D7}|Class2-Calculator.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F56D26F-3EEC-42A4-B3A4-4EE2E35D59D7}|Class2-Calculator.csproj|C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class2-Calculator\\Controllers\\CalculatorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F56D26F-3EEC-42A4-B3A4-4EE2E35D59D7}|Class2-Calculator.csproj|solutionrelative:Controllers\\CalculatorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F56D26F-3EEC-42A4-B3A4-4EE2E35D59D7}|Class2-Calculator.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class2-calculator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F56D26F-3EEC-42A4-B3A4-4EE2E35D59D7}|Class2-Calculator.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F56D26F-3EEC-42A4-B3A4-4EE2E35D59D7}|Class2-Calculator.csproj|C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class2-Calculator\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F56D26F-3EEC-42A4-B3A4-4EE2E35D59D7}|Class2-Calculator.csproj|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,9 +30,9 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class2-Calculator\\Views\\Calculator\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Calculator\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class2-Calculator\\Views\\Calculator\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Calculator\\Index.cshtml*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class2-Calculator\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-27T11:08:46.933Z",
               "EditorCaption": ""
@@ -43,12 +43,11 @@
               "Title": "CalculatorController.cs",
               "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class2-Calculator\\Controllers\\CalculatorController.cs",
               "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class2-Calculator\\Controllers\\CalculatorController.cs*",
-              "RelativeToolTip": "Controllers\\CalculatorController.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBgAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class2-Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T11:07:46.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T11:07:46.347Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T11:06:34.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T11:06:34.113Z"
             }
           ]
         }
