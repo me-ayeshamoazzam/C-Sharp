@@ -1,0 +1,11 @@
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\bin\Debug\Class11-Authentication.exe.config
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\bin\Debug\Class11-Authentication.exe
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\bin\Debug\Class11-Authentication.pdb
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\obj\Debug\Class11-Authentication.csproj.AssemblyReference.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\obj\Debug\Class11_Authentication.Form1.resources
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\obj\Debug\Class11_Authentication.Properties.Resources.resources
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\obj\Debug\Class11-Authentication.csproj.GenerateResource.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\obj\Debug\Class11-Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\obj\Debug\Class11-Authentication.exe
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\obj\Debug\Class11-Authentication.pdb
+C:\Users\Aptech\Documents\Ayesha Moazzam\C-Sharp\Class11-Authentication\Class11-Authentication\obj\Debug\Class11-Authentication.exe.config

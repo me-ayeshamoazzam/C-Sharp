@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\Class11-Authentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13A36DF0-7BA2-4EA7-AED3-ECE756B3E027}|Class11-Authentication\\Class11-Authentication.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\class11-authentication\\class11-authentication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{13A36DF0-7BA2-4EA7-AED3-ECE756B3E027}|Class11-Authentication\\Class11-Authentication.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\class11-authentication\\class11-authentication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A36DF0-7BA2-4EA7-AED3-ECE756B3E027}|Class11-Authentication\\Class11-Authentication.csproj|solutionrelative:class11-authentication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A36DF0-7BA2-4EA7-AED3-ECE756B3E027}|Class11-Authentication\\Class11-Authentication.csproj|C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\Class11-Authentication\\class11-authentication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{13A36DF0-7BA2-4EA7-AED3-ECE756B3E027}|Class11-Authentication\\Class11-Authentication.csproj|solutionrelative:class11-authentication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\Class11-Authentication\\Class11-Authentication\\Form1.cs",
+              "RelativeDocumentMoniker": "Class11-Authentication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\Class11-Authentication\\Class11-Authentication\\Form1.cs",
+              "RelativeToolTip": "Class11-Authentication\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:08:45.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\Class11-Authentication\\Class11-Authentication\\Form1.cs",
               "RelativeDocumentMoniker": "Class11-Authentication\\Form1.cs",
