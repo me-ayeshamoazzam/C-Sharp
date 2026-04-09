@@ -1,0 +1,10 @@
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\bin\Debug\Class6-MenuStrip.exe.config
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\bin\Debug\Class6-MenuStrip.exe
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\bin\Debug\Class6-MenuStrip.pdb
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\obj\Debug\Class6-MenuStrip.csproj.AssemblyReference.cache
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\obj\Debug\Class6_MenuStrip.Form1.resources
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\obj\Debug\Class6_MenuStrip.Properties.Resources.resources
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\obj\Debug\Class6-MenuStrip.csproj.GenerateResource.cache
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\obj\Debug\Class6-MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\obj\Debug\Class6-MenuStrip.exe
+C:\Users\azfar\Desktop\Ayesha\Web Designing\C#\Class6-MenuStrip\Class6-MenuStrip\obj\Debug\Class6-MenuStrip.pdb
