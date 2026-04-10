@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class6-partialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class6-partialview\\class6-partialview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|solutionrelative:class6-partialview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class6-partialview\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class6-partialview\\views\\webview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|solutionrelative:views\\webview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class6-partialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BA2FD69-21CE-4227-A497-2C0F4C483F6C}|Class6-PartialView.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class6-partialview\\views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,24 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Class6-PartialView.csproj",
+              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\Class6-PartialView.csproj",
+              "RelativeDocumentMoniker": "Class6-PartialView.csproj",
+              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\Class6-PartialView.csproj",
+              "RelativeToolTip": "Class6-PartialView.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-10T10:23:34.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-08T10:55:41.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -55,25 +71,23 @@
               "RelativeToolTip": "Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-08T10:55:37.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T10:55:37.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
               "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:45:27.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T10:45:27.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WebView.cshtml",
               "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\Views\\WebView.cshtml",
               "RelativeDocumentMoniker": "Views\\WebView.cshtml",
@@ -81,12 +95,11 @@
               "RelativeToolTip": "Views\\WebView.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-08T10:44:28.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T10:44:28.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_PartialView.cshtml",
               "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class6-PartialView\\Views\\Shared\\_PartialView.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_PartialView.cshtml",
@@ -94,8 +107,7 @@
               "RelativeToolTip": "Views\\Shared\\_PartialView.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-08T10:38:36.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T10:38:36.612Z"
             }
           ]
         }

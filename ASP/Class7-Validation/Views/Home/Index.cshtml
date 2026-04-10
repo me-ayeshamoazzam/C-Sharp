@@ -1,0 +1,13 @@
+﻿@using (Html.BeginForm())
+       {
+    <p> Enter username: @Html.TextBox("Username")</p>
+    @Html.ValidationMessage("username")
+
+    <p> Enter age: @Html.TextBox("Age")</p>
+    @Html.ValidationMessage("age")
+
+    <p> Enter email: @Html.TextBox("Email")</p>
+    @Html.ValidationMessage("email")
+    <input type="submit" value="submit" />
+    @Html.Raw(ViewData["SuccessMessage"])
+       }
