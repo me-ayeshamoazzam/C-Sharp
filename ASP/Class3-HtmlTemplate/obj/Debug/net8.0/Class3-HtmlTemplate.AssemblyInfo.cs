@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class3-HtmlTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7bb6c4ad6793bb4c10c834e27f3e491f26db488")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+130444a8c6dece026384cf8d6d5a072e438e1807")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class3-HtmlTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class3-HtmlTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

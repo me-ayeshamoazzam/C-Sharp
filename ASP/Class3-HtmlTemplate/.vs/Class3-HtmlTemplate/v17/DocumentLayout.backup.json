@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\temp\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\temp\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\temp\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\temp\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\wwwroot\\css\\mobile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:wwwroot\\css\\mobile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|solutionrelative:views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E152EF7E-F7D8-4D00-B33A-C7CE6D5784C9}|Class3-HtmlTemplate.csproj|c:\\users\\aptech\\documents\\ayesha moazzam\\c-sharp\\asp\\class3-htmltemplate\\controllers\\tempcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,159 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T10:23:28.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T10:23:25.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T10:23:21.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T10:21:53.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T10:20:04.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "mobile.css",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\wwwroot\\css\\mobile.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\mobile.css",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\wwwroot\\css\\mobile.css",
-              "RelativeToolTip": "wwwroot\\css\\mobile.css",
-              "ViewState": "AgIAAHoBAAAAAAAAAADwv5QBAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-30T11:41:43.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "wwwroot\\css\\style.css",
-              "ViewState": "AgIAABAGAAAAAAAAAAAIwDAGAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-30T11:39:27.17Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "about.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\temp\\about.cshtml",
-              "RelativeDocumentMoniker": "Views\\temp\\about.cshtml",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\temp\\about.cshtml*",
-              "RelativeToolTip": "Views\\temp\\about.cshtml*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDcAAAA5AAAAAAAAAA==",
+              "Title": "home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\temp\\home.cshtml",
+              "RelativeDocumentMoniker": "Views\\temp\\home.cshtml",
+              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\temp\\home.cshtml*",
+              "RelativeToolTip": "Views\\temp\\home.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-30T11:36:40.378Z",
+              "WhenOpened": "2026-04-08T11:54:35.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T10:23:33.363Z",
+              "WhenOpened": "2026-04-08T11:46:37.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\temp\\about.cshtml",
+              "RelativeDocumentMoniker": "Views\\temp\\about.cshtml",
+              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\temp\\about.cshtml",
+              "RelativeToolTip": "Views\\temp\\about.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T10:23:34.628Z",
+              "WhenOpened": "2026-04-08T11:40:47.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "_PartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PartialView.cshtml",
+              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_PartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T11:38:55.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "tempController.cs",
               "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Controllers\\tempController.cs",
               "RelativeDocumentMoniker": "Controllers\\tempController.cs",
               "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Controllers\\tempController.cs",
               "RelativeToolTip": "Controllers\\tempController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T11:36:19.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aptech\\Documents\\Ayesha Moazzam\\C-Sharp\\ASP\\Class3-HtmlTemplate\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T11:28:16.584Z",
+              "WhenOpened": "2026-04-08T11:38:22.464Z",
               "EditorCaption": ""
             }
           ]

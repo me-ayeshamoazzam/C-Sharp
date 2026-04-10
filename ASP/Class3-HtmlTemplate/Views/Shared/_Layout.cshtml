@@ -1,56 +1,9 @@
-﻿<!doctype html>
+﻿<body>
+    @await Html.PartialAsync("_PartialView")
 
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewData["Title"]</title>
-
-    ```
-    <!-- YOUR TEMPLATE CSS -->
-    <link rel="stylesheet" href="~/css/style.css">
-    <link rel="stylesheet" href="~/css/mobile.css">
-
-    <!-- REMOVE bootstrap if not needed -->
-    ```
-
-</head>
-<body>
-
-    <div id="page">
-
-        ```
-        <!-- HEADER (FROM YOUR TEMPLATE) -->
-        <div id="header">
-            <div>
-                <a href="/" class="logo">
-                    <img src="~/images/logo.png">
-                </a>
-
-                <ul id="navigation">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/Home/About">About</a></li>
-                    <li><a href="/Home/Projects">Projects</a></li>
-                    <li><a href="/Home/Blog">Blog</a></li>
-                    <li><a href="/Home/Contact">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-
-        <!-- 🔥 THIS STAYS -->
+    <main>
         @RenderBody()
+    </main>
 
-        <!-- FOOTER (FROM YOUR TEMPLATE) -->
-        <div id="footer">
-            <div class="footnote">
-                <p>&copy; 2023 BY SPACE PROSPECTION</p>
-            </div>
-        </div>
-        ```
-
-    </div>
-
-    <script src="~/js/mobile.js"></script>
-
+    @await Html.PartialAsync("_PartialView")
 </body>
-</html>

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-0
+using Class5_API.Models;
 
 
 namespace Class5_API.Controllers
@@ -25,9 +25,13 @@ namespace Class5_API.Controllers
                 new Product { Id = 9, Name= "Headphones", Price= 3000.10m, Quantity = 80, IsAvailable = true },
                 new Product { Id = 10, Name= "MIC", Price= 30000.10m, Quantity = 20, IsAvailable = true },
                 new Product { Id = 11, Name= "Keyboard", Price= 40000.10m, Quantity = 50, IsAvailable = true },
+                new Product { Id = 12, Name= "LED Lamp", Price= 12000.14m, Quantity = 70, IsAvailable = true },
+                new Product { Id = 13, Name= "Ring Light", Price= 30000.10m, Quantity = 0, IsAvailable = false },
+                new Product { Id = 14, Name= "Mouse", Price= 20000.10m, Quantity = 10, IsAvailable = true },
+                new Product { Id = 15, Name= "RGB Keyboard", Price= 40000.50m, Quantity = 0, IsAvailable = false },
             };
             return Json(products, JsonRequestBehavior.AllowGet);
-        }
+        }   
         public ActionResult Index()
         {
             return View();
