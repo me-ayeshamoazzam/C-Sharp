@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using System.Reflection;
 using System.Web;
 using System.Web.Mvc;
 
@@ -25,11 +27,12 @@ namespace Class7_Validation.Controllers
             {
                 ModelState.AddModelError("age", "Age is required");
             }
-            if(string.IsNullOrWhiteSpace(email))
+            if(string.IsNullOrWhiteSpace(email) || !email.EndsWith("@gmail.com"))
             {
-                ModelState.AddModelError("email", "Email is required");
+                ModelState.AddModelError("email", "Email is required & must be valid");
             }
-            if(ModelState.IsValid == true)
+
+                if (ModelState.IsValid == true)
             {
                 ViewData["SuccessMessage"] = "<script> alert('Form Submitted') </script>";
                 ModelState.Clear();
