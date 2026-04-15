@@ -1,0 +1,20 @@
+﻿@model Class8_CRUD.Models.User
+
+<h2>Create User</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+        @Html.LabelFor(model => model.username)
+        @Html.TextBoxFor(model => model.username)
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.email)
+        @Html.TextBoxFor(model => model.email)
+    </div>
+
+    <button type="submit">Save</button>
+}
